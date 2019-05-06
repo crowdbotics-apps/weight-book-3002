@@ -1,0 +1,3 @@
+rootProject.name = 'weight_book_3002'
+
+include ':app'
